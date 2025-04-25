@@ -2,6 +2,10 @@
   [Check out my progress!](https://www.codedex.io/@VanessaAm1/30-nites-of-code)  
   ![@VanessaAm1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=VanessaAm1)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@VanessaAm1/30-nites-of-code)  
+  ![@VanessaAm1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=VanessaAm1)
+  
 # 💫 About Me:
 Hi, my name is Conterno Vanessa.<br>I study Computer Science at Unito (University of Turin).<br>In my free time I enjoy programming small exercises or<br>making small projects with Codedex that you can find in my profile.
 
