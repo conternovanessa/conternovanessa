@@ -1,22 +1,22 @@
-# 👩‍💻 Vanessa – Ciao!
+# 👩‍💻Mi 
 
 <details>
-<summary>🇮🇹 About Me (clicca per aprire)</summary>
-👩‍💻 Mi chiamo **Vanessa** e sono laureata in Informatica. Qui puoi vedere alcuni dei miei progetti personali e universitari.  
-🌱 Al momento sto approfondendo e preparando una **certificazione React**.  
-💬 Chiedimi pure informazioni sui miei progetti!  
-⚡ Fun fact: ho iniziato a studiare da sola.
+<summary>🇮🇹 💫  About Me (clicca per aprire)</summary>
+👩‍💻 Mi chiamo **Vanessa** e sono laureata in Informatica. Qui puoi vedere alcuni dei miei progetti personali e universitari.<br/>
+🌱 Al momento sto approfondendo e preparando una **certificazione React**.  <br/>
+💬 Chiedimi pure informazioni sui miei progetti!  <br/>
+⚡ Fun fact: ho iniziato a studiare da sola.<br/>
 
 [🇬🇧 Vedi versione inglese qui](#english-version)
 
 </details>
 
 <details>
-<summary>🇬🇧 About Me (click to open)</summary>
-👩‍💻 My name is Vanessa, Computer Science graduate. Here you can see some of my personal and university projects.  
-🌱 Currently learning and preparing a **React certification**.  
-💬 Feel free to ask me about my projects!  
-⚡ Fun fact: I started learning programming on my own.
+<summary>🇬🇧 💫 About Me (click to open)</summary>
+👩‍💻 My name is Vanessa, Computer Science graduate. Here you can see some of my personal and university projects.  <br/>
+🌱 Currently learning and preparing a **React certification**.  <br/>
+💬 Feel free to ask me about my projects!  <br/>
+⚡ Fun fact: I started learning programming on my own.<br/>
 
 </details>
 
