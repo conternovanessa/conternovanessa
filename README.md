@@ -2,21 +2,6 @@
 
 <details>
 <summary>🇮🇹 About Me (clicca per aprire)</summary>
-
-- 👩‍💻 Mi chiamo **Vanessa** e sono laureata in Informatica. Qui puoi vedere alcuni dei miei progetti personali e universitari.  
-
-- 🌱 Al momento sto approfondendo e preparando una **certificazione sulla libreria React**.  
-
-- 💬 Chiedimi pure informazioni sui miei progetti, sarò felice di raccontarti di più!  
-
-- ⚡ **Fun fact:** ho iniziato a studiare programmazione da sola, perché al liceo non ne avevo avuto l’occasione.  
-
-[🇬🇧 Passa alla versione inglese](#english-version)
-
-</details>
-
-<details>
-<summary>🇮🇹 About Me (clicca per aprire)</summary>
 👩‍💻 Mi chiamo **Vanessa** e sono laureata in Informatica. Qui puoi vedere alcuni dei miei progetti personali e universitari.  
 🌱 Al momento sto approfondendo e preparando una **certificazione React**.  
 💬 Chiedimi pure informazioni sui miei progetti!  
