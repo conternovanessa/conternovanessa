@@ -1,4 +1,4 @@
-# 👩‍💻Mi 
+# 👩‍💻Ciao sono Vanessa !
 
 <details>
 <summary>🇮🇹 💫  About Me (clicca per aprire)</summary>
