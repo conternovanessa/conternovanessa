@@ -15,6 +15,27 @@
 
 </details>
 
+<details>
+<summary>🇮🇹 About Me (clicca per aprire)</summary>
+👩‍💻 Mi chiamo **Vanessa** e sono laureata in Informatica. Qui puoi vedere alcuni dei miei progetti personali e universitari.  
+🌱 Al momento sto approfondendo e preparando una **certificazione React**.  
+💬 Chiedimi pure informazioni sui miei progetti!  
+⚡ Fun fact: ho iniziato a studiare da sola.
+
+[🇬🇧 Vedi versione inglese qui](#english-version)
+
+</details>
+
+<details>
+<summary>🇬🇧 About Me (click to open)</summary>
+👩‍💻 My name is Vanessa, Computer Science graduate. Here you can see some of my personal and university projects.  
+🌱 Currently learning and preparing a **React certification**.  
+💬 Feel free to ask me about my projects!  
+⚡ Fun fact: I started learning programming on my own.
+
+</details>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/CNTVanessa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/emily.vanessa02/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanessa-conterno-05298b2b7/) 
 
@@ -28,18 +49,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=conternovanessa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# 🇬🇧 English Version
-
-<details>
-<summary>About Me (click to open)</summary>
-
-- 👩‍💻 My name is **Vanessa** and I hold a degree in Computer Science. Here you can find some of my personal and university projects.  
-
-- 🌱 Currently, I am learning and preparing a **React library certification**.  
-
-- 💬 Feel free to ask me about my projects, I’ll be happy to share more details!  
-
-- ⚡ **Fun fact:** I started learning programming on my own because I never had the chance at high school.  
-
-</details>
