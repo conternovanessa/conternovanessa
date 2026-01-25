@@ -1,4 +1,4 @@
-# 👩‍💻Ciao sono Vanessa !
+# 👩‍💻Ciao, sono Vanessa !   || Hi, I'm Vanessa !
 
 <details>
 <summary>🇮🇹 💫  About Me (clicca per aprire)</summary>
@@ -32,5 +32,14 @@
 # 📊 GitHub Stats:
 ![Languages Pie](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=conternovanessa&layout=pie&langs_count=10)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=conternovanessa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 🎨 FigmaSites
+_Link to Figma where I did some kind of Work about Interfaces_
+
+## 📁 **Progetti**
+
+### [Radio Interface Project](https://www.figma.com/community/file/1597206885953173842)
+`Interazione Uomo Macchina` • `UNITO`
+
+### [Movie Database Interface](https://www.figma.com/community/file/1597208169380338010)
+`Servizi Web` • `UNITO`
